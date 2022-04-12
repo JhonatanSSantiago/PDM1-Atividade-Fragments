@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Atividade4Fragments</string>
+    <string name="TextAndroid">Android é um sistema operacional baseado no núcleo Linux, desenvolvido por um consórcio de desenvolvedores conhecido como Open Handset Alliance, sendo o principal colaborador o Google.</string>
+    <string name="TextoiOS">iOS é um sistema operacional móvel da Apple Inc. desenvolvido originalmente para o iPhone, iPod Touch e o iPad até a introdução do iPadOS em 2019, um sistema derivado do iOS. A Apple não permite que o iOS seja executado em hardware de terceiros. As versões principais do iOS são lançadas anualmente</string>
+    <string name="TextoWindows">Microsoft Windows é uma família de sistemas operacionais desenvolvidos, comercializados e vendidos pela Microsoft.</string>
+</resources>
